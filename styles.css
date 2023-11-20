@@ -1,17 +1,22 @@
 body{
   background: purple;
   font-family: Helvetica;
+  display: flex;
+  flex-wrap: wrap;
   }
 
 h1{
 color: white;
   text-align: center;
+  width: 100%;
+  display: block;
 }
 
 .assign{
-  display: flex;
+  display: block;
   padding: 10px;
   margin: 10px;
+  width: 20%;
   background: white;
   {
 
