@@ -12,6 +12,12 @@ color: white;
   display: block;
 }
 
+h1:hover{
+  color: white;
+  text-align: center;
+  width: 100%;
+    display: block;
+
 .assign{
   back-ground color: grey;
   display: block;
@@ -37,7 +43,8 @@ color: white;
     color: black;
   }
 
-img{
-  width: 20px;
-  height: 20px:
+.assign img{
+  width: 200px;
+  margin: 10px;
+  border: 2px solid midnightblue;
 }
