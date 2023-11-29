@@ -1,51 +1,23 @@
 body{
   background-color: yellow;
-  font-family: Helvetica;
-  display: flex;
-  flex-wrap: wrap;
-  }
-
-h1{
-color: white;
-  text-align: center;
-  width: 100%;
-  display: block;
+  font-family: sans-serif;
 }
 
-h1:hover{
+h1 {
   color: white;
-  text-align: center;
-  width: 100%;
-    display: block;
+  text-allign: center;
 }
 
 .assign{
-  back-ground color: grey;
-  display: block;
+  display: flex;
   padding: 10px;
   margin: 10px;
-  width: 20%;
-  border-radius: 20px;
-  box-shadow: 8px brown;
-
-  
- 
+  background: white;
 }
-
-  .assign img: hover{
-    width: 200px;
-    margin: 10px;
-    border: 2px dotted white;
-  }
-
-  
-  a{
-    text-decoration: none;
-    color: black;
-  }
 
 .assign img{
   width: 200px;
-  margin: 10px;
-  border: 2px solid midnightblue;
+  padding: 10x;
 }
+  
+
