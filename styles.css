@@ -1,5 +1,5 @@
 body{
-  background: purple;
+  background-color: Bouquet;
   font-family: Helvetica;
   display: flex;
   flex-wrap: wrap;
@@ -13,14 +13,26 @@ color: white;
 }
 
 .assign{
+  back-ground color: grey;
   display: block;
   padding: 10px;
   margin: 10px;
   width: 20%;
-  background: white;
+  border-radius: 20px;
+  box-shadow: 8px brown;
+
+  
+ 
   {
 
-  .assign img{
+  .assign img: hover{
     width: 200px;
-    padding: 10px;
+    margin: 10px;
+    border: 2px dotted white;
+  }
+
+  }
+  a{
+    text-decoration: none;
+    color: black;
   }
