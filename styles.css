@@ -12,7 +12,7 @@ h1 {
   display: flex;
   padding: 10px;
   margin: 10px;
-  background: white;
+  background-color: white;
 }
 
 .assign img{
