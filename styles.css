@@ -13,6 +13,8 @@ color:#37a330;
   padding: 10px;
   margin: 10px;
   background-color: #d7ddb2;
+  border-radius:15px;
+  box-shadow: 6px 4px  #0910388a; 
 }
 
 .assign img{
