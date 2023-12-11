@@ -23,3 +23,7 @@ h1 {
 .assign img:hover{
   width: 250px
 }
+a {
+  text-decoration: none;
+  color: #3a281f;
+}
